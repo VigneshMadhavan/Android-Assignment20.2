@@ -1,0 +1,24 @@
+a) What is null pointer Exception?
+
+Thrown when an application attempts to use null in a case where an object is required. These include: Calling the instance method of a null object. Accessing or modifying the field of a null object.
+
+b) When “Unable to add window to Activity…. Is your Activity running” error occurs?
+
+This exception occurred while app was trying to notify user from the background thread by opening a Dialog.
+
+c) What is ArrayIndexOutOfBound Exception?
+
+An array-index out of bounds exception is a Java exception thrown due to the fact that the program is trying to access an. element at a position that is outside an array limit, hence the words "Out of bounds".
+
+
+d) “Activity not found? Have you declared this activity in your manifest
+file”?
+
+Could be Activity not not included in manifest or synatax issue in calling the activity
+
+
+e) No such method getColor() found?
+
+getColor() method is not declared in that class
+
+
